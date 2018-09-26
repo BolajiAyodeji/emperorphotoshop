@@ -66,7 +66,7 @@ include 'includes/nav.php'
 <div class="row">
 	<div class="span9">
 
-		<h1>Contact Address</h1>
+		<h1>Contact Us</h1>
 
 		<figure class="google_map">
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.8447003499045!2d6.743166314439944!3d7.806259994374692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104f5e0fee957a7f%3A0x9f477963104910c6!2sEmperor+Photo+Shop!5e0!3m2!1sen!2sng!4v1537927836624" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -105,7 +105,7 @@ Lokoja, Kogi State, Nigeria.<br>
 				<div class="control-group">
 				    <label class="control-label" for="inputPhone">Telephone</label>
 				    <div class="controls">				      
-				      <input class="span5" type="text" id="inputPhone" name="phone" value="Telephone" onBlur="if(this.value=='') this.value='Telephone'" onFocus="if(this.value =='Phone number' ) this.value=''">
+				      <input class="span5" type="text" id="inputPhone" name="phone" value="Telephone" onBlur="if(this.value=='') this.value='Telephone'" onFocus="if(this.value =='Telephone' ) this.value=''">
 				    </div>
 				</div>
 			</div>
@@ -113,8 +113,8 @@ Lokoja, Kogi State, Nigeria.<br>
 				<div class="control-group">
 				    <label class="control-label" for="inputMessage">Message</label>
 				    <div class="controls">				      				      
-				      <textarea class="span4" id="inputMessage" name="content" onBlur="if(this.value=='') this.value='Message:'" 
-                        onFocus="if(this.value =='Message:' ) this.value=''">Message</textarea>
+				      <textarea class="span4" id="inputMessage" name="content" value="Message" onBlur="if(this.value=='') this.value='Message'" 
+                        onFocus="if(this.value =='Message' ) this.value=''">Message</textarea>
 				    </div>
 				</div>
 			</div>
@@ -131,24 +131,27 @@ Lokoja, Kogi State, Nigeria.<br>
 		<h3>Services List</h3>
 
 		<ul class="ul1">
-			<li>Lorem ipsum dolor sit amet</li>
-			<li>Curabitur et ipsum vitae</li>
-			<li>Donec non nisi ac lorem</li>
-			<li>Mauris ut nulla vesti feugiat</li>
-			<li>Lorem ipsum dolor sit amet</li>
-			<li>Curabitur et ipsum vitae</li>
-			<li>Donec non nisi ac lorem</li>
-			<li>Mauris ut nulla vesti feugiat</li>
-			<li>Lorem ipsum dolor sit amet</li>
-			<li>Curabitur et ipsum vitae</li>
-			<li>Donec non nisi ac lorem</li>
-			<li>Mauris ut nulla vesti feugiat</li>			                                                                      
+			<li>Photography</li>
+			<li>Videography</li>
+			<li>Graphics Design</li>
+			<li>Events Coverage</li>
+			<li>Frames Construction</li>
+			<li>Art & Prints</li>
+			<li>Photo Books & Albums</li>
+			<li>Sales of photography euipments</li>
+			<li>Sales of photography accessories</li>
+			<li>Drawings</li>		                                                                      
 		</ul>
 
 		<h3>Useful Info</h3>
 
 		<p>
-			Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Ipsum dolor sit amet conse ctetur adipisicing elit, 
+			Emperor Photo Shop was established in xxxx by Late Elder Agunsoye in the heart of Lokoja, Kogi State.
+			<br />
+			<ul class="ul1">
+			<li>Events Coverage (Photo & Video)</li>
+			<li>General sales of all photography and videography equipments and accessories</li>
+	</ul>
 		</p>
 
 	</div>

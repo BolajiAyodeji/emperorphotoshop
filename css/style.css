@@ -1,6 +1,6 @@
 /* GOOGLE FONTS */
 
-@import url(http://fonts.googleapis.com/css?family=Great+Vibes);
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
 @import url('https://fonts.googleapis.com/css?family=Raleway:400,300,700');
 
 /* Global properties ======================================================== */
@@ -35,8 +35,7 @@ a:hover {
 body {
 	background: #bea960;
 	border: 0;
-	font-family: 'Raleway', sans-serif;
-	font: 14px;
+	font: 14px 'Raleway', sans-serif;
 	color: #9e9e9e;
 	line-height: 20px;
 	min-width: 320px;
@@ -415,7 +414,7 @@ footer {
 /* ============================= main layout ====================== */
 
 h1 {
-	font-family: 'Great Vibes';
+	font-family: 'Great Vibes', cursive;
 	font-weight: 400;
 	font-size: 50px;
 	color: #fff;
@@ -521,7 +520,7 @@ h6 {
 }
 
 .banners .banner .txt1 {
-	font-family: 'Great Vibes';
+	font-family: 'Great Vibes', cursive;
 	font-size: 40px;
 	line-height: 40px;
 	color: #bfbfbf;
@@ -559,9 +558,8 @@ h6 {
 	color: #000;
 	white-space: nowrap;
 	letter-spacing: 0px;
-	background: url(../images/button0.png) left top repeat-x;
+	background: #fbe084;
 	padding: 0 20px;
-	border-radius: 10px;
 	-moz-border-radius: 3px;
 	-webkit-border-radius: 3px;
 	border-radius: 20px;
@@ -603,7 +601,7 @@ h6 {
 }
 
 .intro .block2 .txt1 {
-	font-family: 'Great Vibes';
+	font-family: 'Great Vibes', cursive;
 	font-size: 50px;
 	line-height: 50px;
 	color: #fff;
@@ -1080,6 +1078,7 @@ h6 {
 #ajax-contact-form input, #ajax-contact-form textarea {
 	background: #4e4e4e;
 	border: 1px solid #1e1e1e;
+	height:30px;
 	color: #9e9e9e;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -1091,7 +1090,7 @@ h6 {
 }
 
 #ajax-contact-form textarea {
-	height: 124px;
+	height: 150px;
 	border-radius: 20px;
 }
 
@@ -1106,8 +1105,8 @@ h6 {
 	border: 0;
 	margin: 0;
 	display: inline-block;
-	height: 36px;
-	line-height: 36px;
+	height: 45px;
+	line-height: 45px;
 	text-decoration: none;
 	font-size: 14px;
 	font-family: 'Raleway', sans-serif;
@@ -1130,8 +1129,8 @@ h6 {
 	border: 0;
 	margin: 0;
 	display: inline-block;
-	height: 36px;
-	line-height: 36px;
+	height: 45px;
+	line-height: 45px;
 	text-decoration: none;
 	font-size: 14px;
 	font-family: 'Raleway', sans-serif;

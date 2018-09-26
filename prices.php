@@ -67,7 +67,7 @@ include 'includes/nav.php'
 						<figure class="img-polaroid"><img src="images/prices01.jpg" alt=""></figure>
 						<div class="caption">
 							<h4>
-								Caption  
+								Indoor Shoot
 							</h4>
 							<p>
 								Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor 
@@ -83,7 +83,7 @@ include 'includes/nav.php'
 						<figure class="img-polaroid"><img src="images/prices02.jpg" alt=""></figure>
 						<div class="caption">
 							<h4>
-								Caption  
+								Outdoor Shoot  
 							</h4>
 							<p>
 								Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor 
@@ -102,7 +102,7 @@ include 'includes/nav.php'
 						<figure class="img-polaroid"><img src="images/prices03.jpg" alt=""></figure>
 						<div class="caption">
 							<h4>
-								Caption  
+								Commercial  
 							</h4>
 							<p>
 								Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor 
@@ -118,7 +118,7 @@ include 'includes/nav.php'
 						<figure class="img-polaroid"><img src="images/prices04.jpg" alt=""></figure>
 						<div class="caption">
 							<h4>
-								Caption  
+								Wedding  
 							</h4>
 							<p>
 								Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor 
@@ -137,7 +137,7 @@ include 'includes/nav.php'
 						<figure class="img-polaroid"><img src="images/prices05.jpg" alt=""></figure>
 						<div class="caption">
 							<h4>
-								Caption  
+								Events Coverage  
 							</h4>
 							<p>
 								Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor 
@@ -153,7 +153,7 @@ include 'includes/nav.php'
 						<figure class="img-polaroid"><img src="images/prices06.jpg" alt=""></figure>
 						<div class="caption">
 							<h4>
-								Caption  
+								Cinematography  
 							</h4>
 							<p>
 								Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor 
@@ -172,7 +172,7 @@ include 'includes/nav.php'
 						<figure class="img-polaroid"><img src="images/prices07.jpg" alt=""></figure>
 						<div class="caption">
 							<h4>
-								Caption  
+								Frames  
 							</h4>
 							<p>
 								Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor 
@@ -188,7 +188,7 @@ include 'includes/nav.php'
 						<figure class="img-polaroid"><img src="images/prices08.jpg" alt=""></figure>
 						<div class="caption">
 							<h4>
-								Caption  
+								Prints  
 							</h4>
 							<p>
 								Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor 

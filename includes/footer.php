@@ -3,7 +3,7 @@
 <div class="span12">
 	<div class="bot clearfix">
 	<div class="bot1">
-		<a href="index.html" class="logo2"><img src="images/logo.png" alt=""></a>
+		<a href="https://emperorphotoshop.com/" class="logo2"><img src="images/logo.png" alt="EPS Logo"></a>
 	</div>
 	<div class="bot2 clearfix">
 		<div class="phone1">

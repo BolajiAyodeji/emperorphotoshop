@@ -106,7 +106,7 @@ scelerisque neque aliquam.
 
 		<h3>Latest News</h3>
 
-		<div class="date1">24 of December, 2013</div>
+		<div class="date1">24 of December, 2018</div>
 		<h5>
 			<a href="#">Aliquam erat volutpat. Fusce a mauris vel nulla faucibus tempor. </a>
 		</h5>
@@ -116,7 +116,7 @@ scelerisque neque aliquam.
 
 		<br>
 
-		<div class="date1">12 od June, 2013</div>
+		<div class="date1">12 of June, 2018</div>
 		<h5>
 			<a href="#">Aliquam erat volutpat. Fusce a mauris vel nulla faucibus tempor. </a>
 		</h5>
@@ -126,7 +126,7 @@ scelerisque neque aliquam.
 
 		<br>
 
-		<div class="date1">29 of March, 2013</div>
+		<div class="date1">29 of March, 2018</div>
 		<h5>
 			<a href="#">Aliquam erat volutpat. Fusce a mauris vel nulla faucibus tempor. </a>
 		</h5>
